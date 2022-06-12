@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offerzhang&hide=contribs,prs&show_icons=true)
-![image](https://user-images.githubusercontent.com/75443321/173237737-c8df3d3d-cc7d-4f1d-a298-f80f2e305333.png)
+![image](https://gitee.com/Elloe/cloudImages/raw/master/img/20220612222049.gif))
